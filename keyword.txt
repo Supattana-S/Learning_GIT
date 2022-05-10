@@ -1,0 +1,5 @@
+GUI :  Graphic User Interface
+CLI : Command Line Interface --> ติดต่อ kernel ผ่าน shell
+
+UNIX ==> Linux , apple (base on UNIX)
+Microsoft (Windows)
